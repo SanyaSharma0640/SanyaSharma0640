@@ -12,16 +12,15 @@
   
 <!-- ## Hi there 👋 
 
-## I am a Fast Learner, FullStack Developer, Competetive Programmer -->
+## I am a Fast Learner, FullStack Developer, Problem Solver -->
 
 <img align="right" src="./codingcat.gif"/>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on javaScript
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working on React
+- 🌱 I’m currently learning Mern
 - 💬 Ask me about WebDev,C++,java,DataStructures
-- 📫 How to reach me: sanyasharma8189@gmail.com
-- 😄 Pronouns: She/Her
+- 📫 Reach me: sanyasharma8189@gmail.com
 - ⚡ Fun fact: I am jack of all trade master of none.
  ("Skill sets have no gender")
 
