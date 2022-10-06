@@ -3,6 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;CSE+Sophomore)](https://git.io/typing-svg)
 </div>
+<img align="right" src="./codingcat.gif"/>
 
 ![Age](https://img.shields.io/badge/age-19-blue) 
 ![Focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
