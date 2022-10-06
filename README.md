@@ -1,9 +1,3 @@
-<a href="https://icons8.com/icon/n9d0Hm43JCPK/link"></a>     
-<div align="center" width="100%">  
-  <table width="100%"> 
-    <tr><th><a href="https://skyline.github.com/coderchirag/2021"><img width="100%" src="./githubSkyline.gif"></a></th></tr>
-  </table>
-</div>
 <div align="center">
 <h1>Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" height="50px">, I'm Sanya Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></h1>
   
