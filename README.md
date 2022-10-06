@@ -4,9 +4,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=fff&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Competetive+Programmer;Freelancer;CSE+Sophomore)](https://git.io/typing-svg)
 </div>
 
-![age](https://img.shields.io/badge/age-19-blue) 
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
-![living](https://img.shields.io/badge/living-Rajpura-3c9) 
+![Age](https://img.shields.io/badge/age-19-blue) 
+![Focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
+![Living](https://img.shields.io/badge/living-Rajpura-3c9) 
 
 ## 🙋‍♂️ About Me
 <center>
@@ -18,7 +18,6 @@
 - 🌱 I’m currently learning ...**Node.js and Backend Development**
 - 👨‍💻 My Skills ...**HTML, CSS,  Javascript, ReactJs, C++.**
 - 📫 How to reach me: ... **sanyasharma8189@gmail.com**
-- ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos**
 - ⚡ My thought: ... **Skill sets have no gender**
 
 <br>
@@ -37,6 +36,8 @@
 </a><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 </a><a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 </a><a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+</a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 ## 📈 **My Github Stats**
