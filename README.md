@@ -6,7 +6,7 @@
 
 ![age](https://img.shields.io/badge/age-19-blue) 
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
-![living](https://img.shields.io/badge/living-Yamuna Nagar-3c9) 
+![living](https://img.shields.io/badge/living-Rajpura-3c9) 
 
 ## 🙋‍♂️ About Me
 <center>
