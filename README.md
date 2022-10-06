@@ -7,7 +7,7 @@
 
 ![Age](https://img.shields.io/badge/age-19-blue) 
 ![Focus](https://img.shields.io/badge/focus-FullStack-brightgreen) 
-![Living](https://img.shields.io/badge/living-Rajpura-3c9) 
+![Living](https://img.shields.io/badge/living-Chandigarh-3c9) 
 
 ## 🙋‍♂️ About Me
 <center>
